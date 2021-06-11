@@ -1,0 +1,99 @@
+club_id,Id,manager,year_formed,chairman,city,market_value,country,rank,segmentation
+142, Arsenal , Mikel Arteta ,1886,Sir Chips Keswick,London,549100000,england,9,high
+154, Aston Villa , Dean Smith ,1874,,Birmingham,379700000,england,11,high
+381, Brighton , Graham Potter ,1901,Tony Bloom,Brighton & Hove,248600000,england,16,medium
+435, Burnley , Sean Dyche ,1882,J Banaszkiewicz and M Garlick,Burnley,130250000,england,17,medium
+536, Chelsea , Thomas Tuchel ,1905,Bruce Buck,London,779800000,england,4,high
+646, Crystal Palace , Roy Hodgson ,1905,Steve Parish & Martin Long,London,203300000,england,13,medium
+942, Everton , Carlo Ancelotti ,1878,Bill Kenwright,Merseyside,464500000,england,8,high
+1055, Fulham , Scott Parker ,1879,Shahid Khan,London,223100000,england,18,medium
+1524, Leeds , Marcelo Bielsa ,1919,Andrea Radrizzani,Leeds,214650000,england,10,medium
+1527, Leicester , Brendan Rodgers ,1884,,Leicester,475900000,england,3,high
+1563, Liverpool , Jurgen Klopp ,1892,John W Henry.,Merseyside,1010000000,england,7,high
+1718, Man City , Josep Guardiola ,1887,Khaldoon Al Mubarak,Manchester,1030000000,england,1,high
+1724, Man Utd , Ole Gunnar Solskjaer ,1878,Joel Glazer & Avram Glazer,Manchester,717950000,england,2,high
+1823, Newcastle , Steve Bruce ,1892,Lee Charnley,Newcastle,252700000,england,15,medium
+2328, Sheff Utd , Paul Heckingbottom ,1889,Kevin McCabe,Sheffield,152800000,england,20,medium
+2471, Southampton , Ralph Hasenhuttl ,1885,Katharina Liebherr,Southampton,250500000,england,14,medium
+2590, Tottenham , Ryan Mason ,1882,D Levy,London,680800000,england,6,high
+2744, West Brom , Sam Allardyce ,1878,Jeremy Peace,West Bromwich,121250000,england,19,low
+2802, West Ham , David Moyes ,1895,David Gold & David Sullivan,London,279750000,england,5,medium
+2848, Wolves , Nuno Espirito Santo ,1877,Steve Morgan,Wolverhampton,412100000,england,12,high
+1370, Inter , Antonio Conte ,1908,Massimo Moratti,Milan,618300000,italy,1,high
+41, AC Milan , Stefano Pioli ,1899,Silvio Berlusconi,Milan,508800000,italy,2,high
+1408, Juventus , Andrea Pirlo ,1897,Andrea Agnelli,Turin,678100000,italy,3,high
+17, Atalanta , Gian Piero Gasperini ,,,  ,381000000,italy,4,high
+1801, Napoli , Gennaro Gattuso ,,,  ,533000000,italy,5,high
+1501, Lazio , Simone Inzaghi ,1900,Claudio Lotito,Rome,344900000,italy,6,high
+2163, Roma , Paulo Fonseca ,1927,Rosella Sensi,Rome,386850000,italy,7,high
+4692, Sassuolo , Roberto De Zerbi ,,,  ,211850000,italy,8,medium
+2388, Sampdoria , Claudio Ranieri ,,,  ,104900000,italy,9,low
+2681, Verona , Ivan Juric ,,,,155630000,italy,10,medium
+268, Bologna , Sinisa Mihajlovic ,,,,140500000,italy,11,medium
+2634, Udinese , Luca Gotti ,,,,142900000,italy,12,medium
+999, Fiorentina , Cesare Prandelli ,1926,,,195700000,italy,13,medium
+1082, Genoa , Davide Ballardini ,,,,88150000,italy,14,low
+4794, Spezia ,,,,,60800000,italy,15,low
+2584, Torino , Marco Giampaolo ,,,,159400000,italy,16,medium
+4612, Benevento , Filippo Inzaghi ,,,,56050000,italy,17,low
+525, Cagliari , Leonardo Semplici ,,,,183150000,italy,18,medium
+2037, Parma , Roberto D'Aversa ,,,,137550000,italy,19,medium
+4195, Crotone , Giovanni Stroppa ,,,  ,47950000,italy,20,low
+2843, Arminia , Frank Kramer ,,,  ,52650000,germany,15,low
+4796, Augsburg , Heiko Herrlich ,,,,101980000,germany,12,low
+398, B Dortmund , Edin Terzic ,1909,Dr. Reinhard Rauball,,581450000,germany,5,high
+468, B Leverkusen , Hannes Wolf ,1904,Wolfgang Holzhauser,,385400000,germany,6,high
+403, B M'gladbach , Marco Rose ,,,,323450000,germany,7,high
+469, B Munich , Hans-Dieter Flick ,1900,Franz Beckenbauer,,841600000,germany,1,high
+970, Cologne , Markus Gisdol ,,,,107150000,germany,17,low
+884, E Frankfurt , Adi Hutter ,,,,227900000,germany,4,medium
+1054, Freiburg , Christian Streich ,,,,130380000,germany,9,medium
+1284, Hertha Berlin , Bruno Labbadia ,,,,220000000,germany,16,medium
+3937, Hoffenheim , Sebastian Hoeness ,,,,237300000,germany,11,medium
+3050, Mainz , Bo Svensson ,,,,92850000,germany,13,low
+5709, RB Leipzig , Julian Nagelsmann ,,,  ,561780000,germany,2,high
+2260, Schalke , Dimitrios Grammozis ,,,  ,108430000,germany,18,low
+2682, Stuttgart , Pellegrino Matarazzo ,1893,Erwin Staudt,  ,170500000,germany,10,medium
+3393, Union Berlin , Urs Fischer ,,,  ,76300000,germany,8,low
+2854, W Bremen , Florian Kohfeldt ,,,  ,103600000,germany,14,low
+2967, Wolfsburg , Oliver Glasner ,,,  ,234050000,germany,3,medium
+1576, Lille , Christophe Galtier ,,,  ,297500000,france,1,medium
+2068, Paris Saint Germain , Mauricio Pochettino ,1970,Robin Leproux,Paris,828950000,france,2,high
+1674, Monaco , Niko Kovac ,,,  ,338800000,france,3,high
+1645, Lyon , Rudi Garcia ,1899,Jean-Michel Aulas,  ,333450000,france,4,high
+1590, Lens , Franck Haise ,,,  ,95650000,france,5,low
+1748, Marseille , Jorge Sampaoli ,1899,Vincent Labrune,  ,224900000,france,6,medium
+2173, Rennes , Julien Stephan ,,,  ,230350000,france,7,medium
+1767, Montpellier , Michel Der Zakarian ,,,  ,112300000,france,8,low
+1772, Metz , Frederic Antonetti ,,,  ,85250000,france,9,low
+1832, Nice , Adrian Ursea ,,,  ,222050000,france,10,medium
+2146, Reims , David Guion ,,,  ,97050000,france,11,low
+68, Angers , Stephane Moulin ,,,  ,82400000,france,12,low
+935, St-Etienne , Claude Puel ,,,  ,104600000,france,13,low
+2248, Strasbourg , Thierry Laurey ,,,  ,107200000,france,14,low
+246, Bordeaux , Jean-Louis Gasset ,,,  ,93300000,france,16,low
+3150, Lorient , Christophe Pellissier ,,,  ,69730000,france,17,low
+2934, Stade Brest , Olivier Dall'Oglio ,,,  ,89080000,france,15,low
+1834, Nimes , Pascal Plancque ,,,  ,61550000,france,18,low
+1800, Nantes , Raymond Domenech ,,,  ,95300000,france,19,low
+4197, Dijon , David Linares ,,,  ,63880000,france,20,low
+163, Atletico Madrid , Diego Simeone ,1903,Enrique Cerezo,Madrid,748000000,spain,1,high
+2165, Real Madrid , Zinedine Zidane ,1899,Florentino Perez,Madrid,746000000,spain,2,high
+224, Barcelona , Ronald Koeman ,1899,Sandro Rosell,Barcelona,823000000,spain,3,high
+2292, Sevilla , Julen Lopetegui ,1905,Jose Maria Del Nido,  ,370000000,spain,4,high
+2192, Sociedad , Imanol Alguacil ,,,  ,346000000,spain,5,high
+3123, Villarreal , Unai Emery ,1923,Fernando Roig Alfonso,  ,248000000,spain,6,medium
+2159, Real Betis , Manuel Pellegrini ,,,  ,199400000,spain,7,medium
+3427, Granada , Diego Martinez ,,,  ,115900000,spain,8,low
+207, Athletic Bilbao , Marcelino Garcia Toral ,1898,,,219800000,spain,10,medium
+3251, Levante , Paco Lopez ,,,  ,107500000,spain,11,low
+690, Celta Vigo , Eduardo Coudet ,,,  ,129200000,spain,12,low
+3216, Cadiz , Alvaro Cervera ,,,  ,38700000,spain,13,low
+2697, Valencia , Javier Gracia ,1919,Manuel Llorente,  ,246700000,spain,14,medium
+3480, Getafe , Jose Bordalas ,,,  ,169500000,spain,15,medium
+2975, Alaves , Abelardo Fernandez ,,,  ,75000000,spain,16,low
+2676, Valladolid , Sergio Gonzalez ,,,  ,647000000,spain,17,high
+3496, Huesca , Jose Rojo Martin ,,,  ,545000000,spain,18,high
+3481, Elche , Fran Escriba ,,,  ,41000000,spain,19,low
+889, Eibar , Jose Luis Mendilibar ,,,  ,745000000,spain,20,high
+1951, Osasuna , Jagoba Arrasate ,,,  ,83000000,spain,9,low

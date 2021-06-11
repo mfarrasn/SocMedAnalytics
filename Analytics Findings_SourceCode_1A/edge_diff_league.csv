@@ -1,0 +1,560 @@
+Source,Target
+Arsenal,Atletico Madrid
+Arsenal,Real Madrid
+Arsenal,Barcelona
+Arsenal,Sevilla
+Arsenal,Villarreal
+Arsenal,Celta Vigo
+Arsenal,Valencia
+Arsenal,Inter
+Arsenal,AC Milan
+Arsenal,Juventus
+Arsenal,Napoli
+Arsenal,Lazio
+Arsenal,Roma
+Arsenal,Sampdoria
+Arsenal,Udinese
+Arsenal,Fiorentina
+Arsenal,Torino
+Arsenal,Parma
+Arsenal,Paris Saint Germain
+Arsenal,Monaco
+Arsenal,Lyon
+Arsenal,Lens
+Arsenal,Marseille
+Arsenal,Rennes
+Arsenal,Montpellier
+Arsenal,Nantes
+Arsenal,B Dortmund
+Arsenal,B Leverkusen
+Arsenal,B M'gladbach
+Arsenal,B Munich
+Arsenal,Cologne
+Arsenal,E Frankfurt
+Arsenal,Schalke
+Arsenal,W Bremen
+Aston Villa,Atletico Madrid
+Aston Villa,Barcelona
+Aston Villa,Athletic Bilbao
+Aston Villa,Celta Vigo
+Aston Villa,Inter
+Aston Villa,Juventus
+Aston Villa,Lille
+Aston Villa,Rennes
+Aston Villa,Bordeaux
+Aston Villa,B Munich
+Burnley,Napoli
+Burnley,Reims
+Burnley,E Frankfurt
+Burnley,Stuttgart
+Chelsea,Atletico Madrid
+Chelsea,Real Madrid
+Chelsea,Barcelona
+Chelsea,Sevilla
+Chelsea,Real Betis
+Chelsea,Valencia
+Chelsea,Inter
+Chelsea,AC Milan
+Chelsea,Juventus
+Chelsea,Napoli
+Chelsea,Lazio
+Chelsea,Roma
+Chelsea,Lille
+Chelsea,Paris Saint Germain
+Chelsea,Monaco
+Chelsea,Marseille
+Chelsea,Rennes
+Chelsea,Bordeaux
+Chelsea,B Leverkusen
+Chelsea,B Munich
+Chelsea,E Frankfurt
+Chelsea,Hertha Berlin
+Chelsea,Schalke
+Chelsea,Stuttgart
+Chelsea,W Bremen
+Everton,Villarreal
+Everton,Inter
+Everton,AC Milan
+Everton,Atalanta
+Everton,Fiorentina
+Everton,Lille
+Everton,Lyon
+Everton,B M'gladbach
+Everton,B Munich
+Everton,Wolfsburg
+Fulham,Atletico Madrid
+Fulham,Juventus
+Fulham,Roma
+Fulham,Bologna
+Fulham,Hertha Berlin
+Fulham,Wolfsburg
+Leeds,Real Madrid
+Leeds,Barcelona
+Leeds,Valencia
+Leeds,AC Milan
+Leeds,Juventus
+Leeds,Napoli
+Leeds,Lazio
+Leeds,Roma
+Leeds,Bologna
+Leeds,Torino
+Leeds,Monaco
+Leeds,B Munich
+Leeds,Stuttgart
+Leicester,Atletico Madrid
+Leicester,Sevilla
+Liverpool,Atletico Madrid
+Liverpool,Real Madrid
+Liverpool,Barcelona
+Liverpool,Sevilla
+Liverpool,Sociedad
+Liverpool,Villarreal
+Liverpool,Real Betis
+Liverpool,Athletic Bilbao
+Liverpool,Celta Vigo
+Liverpool,Valencia
+Liverpool,Alaves
+Liverpool,Inter
+Liverpool,AC Milan
+Liverpool,Juventus
+Liverpool,Atalanta
+Liverpool,Napoli
+Liverpool,Roma
+Liverpool,Udinese
+Liverpool,Fiorentina
+Liverpool,Genoa
+Liverpool,Lille
+Liverpool,Paris Saint Germain
+Liverpool,Monaco
+Liverpool,Lyon
+Liverpool,Marseille
+Liverpool,St-Etienne
+Liverpool,Strasbourg
+Liverpool,Bordeaux
+Liverpool,Augsburg
+Liverpool,B Dortmund
+Liverpool,B Leverkusen
+Liverpool,B M'gladbach
+Liverpool,B Munich
+Liverpool,Cologne
+Liverpool,E Frankfurt
+Liverpool,Hoffenheim
+Liverpool,RB Leipzig
+Man City,Real Madrid
+Man City,Barcelona
+Man City,Sevilla
+Man City,Villarreal
+Man City,Athletic Bilbao
+Man City,Valencia
+Man City,AC Milan
+Man City,Juventus
+Man City,Atalanta
+Man City,Napoli
+Man City,Roma
+Man City,Paris Saint Germain
+Man City,Monaco
+Man City,Lyon
+Man City,Marseille
+Man City,B Dortmund
+Man City,B M'gladbach
+Man City,B Munich
+Man City,Hoffenheim
+Man City,Schalke
+Man Utd,Atletico Madrid
+Man Utd,Real Madrid
+Man Utd,Barcelona
+Man Utd,Sevilla
+Man Utd,Sociedad
+Man Utd,Villarreal
+Man Utd,Granada
+Man Utd,Athletic Bilbao
+Man Utd,Celta Vigo
+Man Utd,Valencia
+Man Utd,Inter
+Man Utd,AC Milan
+Man Utd,Juventus
+Man Utd,Lazio
+Man Utd,Roma
+Man Utd,Fiorentina
+Man Utd,Lille
+Man Utd,Paris Saint Germain
+Man Utd,Monaco
+Man Utd,Lyon
+Man Utd,Marseille
+Man Utd,Montpellier
+Man Utd,St-Etienne
+Man Utd,Strasbourg
+Man Utd,Bordeaux
+Man Utd,Nantes
+Man Utd,B Dortmund
+Man Utd,B Leverkusen
+Man Utd,B Munich
+Man Utd,RB Leipzig
+Man Utd,Schalke
+Man Utd,Stuttgart
+Man Utd,Wolfsburg
+Newcastle,Barcelona
+Newcastle,Athletic Bilbao
+Newcastle,Celta Vigo
+Newcastle,Inter
+Newcastle,Juventus
+Newcastle,Roma
+Newcastle,Monaco
+Newcastle,Marseille
+Newcastle,Metz
+Newcastle,Bordeaux
+Newcastle,B Leverkusen
+Newcastle,E Frankfurt
+Southampton,Athletic Bilbao
+Southampton,Inter
+Southampton,Marseille
+Tottenham,Atletico Madrid
+Tottenham,Real Madrid
+Tottenham,Barcelona
+Tottenham,Sevilla
+Tottenham,Getafe
+Tottenham,Inter
+Tottenham,AC Milan
+Tottenham,Juventus
+Tottenham,Lazio
+Tottenham,Udinese
+Tottenham,Fiorentina
+Tottenham,Monaco
+Tottenham,Lyon
+Tottenham,Nantes
+Tottenham,B Dortmund
+Tottenham,B Leverkusen
+Tottenham,B Munich
+Tottenham,Cologne
+Tottenham,E Frankfurt
+Tottenham,RB Leipzig
+Tottenham,W Bremen
+West Brom,Valencia
+West Brom,Bologna
+West Ham,Metz
+West Ham,B Dortmund
+West Ham,E Frankfurt
+Wolves,Barcelona
+Wolves,Sevilla
+Wolves,Juventus
+Wolves,Torino
+Wolves,Schalke
+Atletico Madrid,Inter
+Atletico Madrid,AC Milan
+Atletico Madrid,Juventus
+Atletico Madrid,Lazio
+Atletico Madrid,Roma
+Atletico Madrid,Udinese
+Atletico Madrid,Fiorentina
+Atletico Madrid,Cagliari
+Atletico Madrid,Parma
+Atletico Madrid,Monaco
+Atletico Madrid,Lens
+Atletico Madrid,Marseille
+Atletico Madrid,Rennes
+Atletico Madrid,Nantes
+Atletico Madrid,B Dortmund
+Atletico Madrid,B Leverkusen
+Atletico Madrid,B Munich
+Atletico Madrid,RB Leipzig
+Atletico Madrid,Schalke
+Atletico Madrid,W Bremen
+Atletico Madrid,Wolfsburg
+Real Madrid,Inter
+Real Madrid,AC Milan
+Real Madrid,Juventus
+Real Madrid,Atalanta
+Real Madrid,Napoli
+Real Madrid,Lazio
+Real Madrid,Roma
+Real Madrid,Fiorentina
+Real Madrid,Paris Saint Germain
+Real Madrid,Monaco
+Real Madrid,Lyon
+Real Madrid,Marseille
+Real Madrid,Nice
+Real Madrid,Reims
+Real Madrid,B Dortmund
+Real Madrid,B Leverkusen
+Real Madrid,B M'gladbach
+Real Madrid,B Munich
+Real Madrid,Cologne
+Real Madrid,E Frankfurt
+Real Madrid,Schalke
+Real Madrid,W Bremen
+Real Madrid,Wolfsburg
+Barcelona,Inter
+Barcelona,AC Milan
+Barcelona,Juventus
+Barcelona,Napoli
+Barcelona,Lazio
+Barcelona,Roma
+Barcelona,Sampdoria
+Barcelona,Udinese
+Barcelona,Fiorentina
+Barcelona,Paris Saint Germain
+Barcelona,Monaco
+Barcelona,Lyon
+Barcelona,Nice
+Barcelona,Strasbourg
+Barcelona,B Dortmund
+Barcelona,B Leverkusen
+Barcelona,B M'gladbach
+Barcelona,B Munich
+Barcelona,Cologne
+Barcelona,Hertha Berlin
+Barcelona,Schalke
+Barcelona,Stuttgart
+Barcelona,W Bremen
+Sevilla,Inter
+Sevilla,AC Milan
+Sevilla,Juventus
+Sevilla,Lazio
+Sevilla,Roma
+Sevilla,Sampdoria
+Sevilla,Fiorentina
+Sevilla,Parma
+Sevilla,Lille
+Sevilla,Paris Saint Germain
+Sevilla,Lyon
+Sevilla,Rennes
+Sevilla,B Dortmund
+Sevilla,B M'gladbach
+Sevilla,B Munich
+Sevilla,Freiburg
+Sevilla,Mainz
+Sevilla,Schalke
+Sevilla,Stuttgart
+Sociedad,Juventus
+Sociedad,Napoli
+Sociedad,Lyon
+Sociedad,B Leverkusen
+Villarreal,Inter
+Villarreal,Napoli
+Villarreal,Lazio
+Villarreal,Roma
+Villarreal,Fiorentina
+Villarreal,Torino
+Villarreal,Lille
+Villarreal,Monaco
+Villarreal,Lyon
+Villarreal,B Leverkusen
+Villarreal,B M'gladbach
+Villarreal,B Munich
+Villarreal,Wolfsburg
+Real Betis,AC Milan
+Real Betis,Bologna
+Real Betis,Monaco
+Real Betis,Lyon
+Real Betis,Rennes
+Granada,Napoli
+Athletic Bilbao,AC Milan
+Athletic Bilbao,Juventus
+Athletic Bilbao,Napoli
+Athletic Bilbao,Sassuolo
+Athletic Bilbao,Sampdoria
+Athletic Bilbao,Torino
+Athletic Bilbao,Parma
+Athletic Bilbao,Paris Saint Germain
+Athletic Bilbao,Lyon
+Athletic Bilbao,Marseille
+Athletic Bilbao,Bordeaux
+Athletic Bilbao,Augsburg
+Athletic Bilbao,E Frankfurt
+Athletic Bilbao,Hertha Berlin
+Athletic Bilbao,Schalke
+Athletic Bilbao,W Bremen
+Celta Vigo,AC Milan
+Celta Vigo,Juventus
+Celta Vigo,Lens
+Celta Vigo,Marseille
+Celta Vigo,E Frankfurt
+Celta Vigo,Stuttgart
+Celta Vigo,W Bremen
+Valencia,Inter
+Valencia,Juventus
+Valencia,Atalanta
+Valencia,Lazio
+Valencia,Roma
+Valencia,Fiorentina
+Valencia,Genoa
+Valencia,Lille
+Valencia,Paris Saint Germain
+Valencia,Monaco
+Valencia,Lyon
+Valencia,Marseille
+Valencia,St-Etienne
+Valencia,Bordeaux
+Valencia,B Leverkusen
+Valencia,B Munich
+Valencia,Cologne
+Valencia,Schalke
+Valencia,W Bremen
+Getafe,Inter
+Getafe,B Munich
+Getafe,Stuttgart
+Alaves,Inter
+Osasuna,Parma
+Osasuna,Lens
+Osasuna,Rennes
+Osasuna,Bordeaux
+Osasuna,B Leverkusen
+Inter,Lille
+Inter,Monaco
+Inter,Lyon
+Inter,Marseille
+Inter,St-Etienne
+Inter,Strasbourg
+Inter,Nantes
+Inter,B Dortmund
+Inter,B Leverkusen
+Inter,B M'gladbach
+Inter,B Munich
+Inter,Cologne
+Inter,E Frankfurt
+Inter,Hertha Berlin
+Inter,Schalke
+Inter,W Bremen
+Inter,Wolfsburg
+AC Milan,Lille
+AC Milan,Paris Saint Germain
+AC Milan,Monaco
+AC Milan,Lyon
+AC Milan,Lens
+AC Milan,Marseille
+AC Milan,Strasbourg
+AC Milan,B Dortmund
+AC Milan,B Munich
+AC Milan,Hertha Berlin
+AC Milan,Schalke
+AC Milan,W Bremen
+AC Milan,Wolfsburg
+Juventus,Monaco
+Juventus,Lyon
+Juventus,Marseille
+Juventus,Rennes
+Juventus,Bordeaux
+Juventus,Nantes
+Juventus,B Dortmund
+Juventus,B Leverkusen
+Juventus,B M'gladbach
+Juventus,B Munich
+Juventus,Cologne
+Juventus,E Frankfurt
+Juventus,Hertha Berlin
+Juventus,W Bremen
+Atalanta,Paris Saint Germain
+Atalanta,Lyon
+Atalanta,B Dortmund
+Napoli,Paris Saint Germain
+Napoli,Marseille
+Napoli,Metz
+Napoli,Nice
+Napoli,B Dortmund
+Napoli,B Munich
+Napoli,RB Leipzig
+Napoli,Stuttgart
+Napoli,Wolfsburg
+Lazio,Lens
+Lazio,Marseille
+Lazio,Rennes
+Lazio,Nice
+Lazio,St-Etienne
+Lazio,Nantes
+Lazio,B Dortmund
+Lazio,B Leverkusen
+Lazio,B M'gladbach
+Lazio,B Munich
+Lazio,E Frankfurt
+Lazio,Stuttgart
+Lazio,W Bremen
+Roma,Lyon
+Roma,Strasbourg
+Roma,Bordeaux
+Roma,B Leverkusen
+Roma,B M'gladbach
+Roma,B Munich
+Roma,Cologne
+Roma,Hertha Berlin
+Sampdoria,Lens
+Sampdoria,Hertha Berlin
+Sampdoria,Stuttgart
+Sampdoria,W Bremen
+Bologna,Lyon
+Bologna,Marseille
+Udinese,Lens
+Udinese,Rennes
+Udinese,B Dortmund
+Udinese,B Leverkusen
+Udinese,W Bremen
+Fiorentina,Lille
+Fiorentina,Lyon
+Fiorentina,Nice
+Fiorentina,Bordeaux
+Fiorentina,B M'gladbach
+Fiorentina,B Munich
+Fiorentina,Cologne
+Fiorentina,Schalke
+Genoa,Lille
+Torino,B M'gladbach
+Cagliari,St-Etienne
+Parma,Lille
+Parma,Lens
+Parma,Marseille
+Parma,Bordeaux
+Parma,B Dortmund
+Parma,Stuttgart
+Parma,W Bremen
+Lille,B Dortmund
+Lille,B Munich
+Lille,Stuttgart
+Lille,Wolfsburg
+Paris Saint Germain,B Dortmund
+Paris Saint Germain,B Leverkusen
+Paris Saint Germain,B Munich
+Paris Saint Germain,RB Leipzig
+Paris Saint Germain,Schalke
+Paris Saint Germain,Wolfsburg
+Monaco,B Dortmund
+Monaco,B Leverkusen
+Monaco,B M'gladbach
+Monaco,RB Leipzig
+Monaco,W Bremen
+Lyon,B Leverkusen
+Lyon,B M'gladbach
+Lyon,B Munich
+Lyon,Hoffenheim
+Lyon,RB Leipzig
+Lyon,Schalke
+Lyon,Stuttgart
+Lyon,W Bremen
+Lens,B Leverkusen
+Lens,B Munich
+Lens,Hertha Berlin
+Lens,Stuttgart
+Lens,Wolfsburg
+Marseille,B Dortmund
+Marseille,B M'gladbach
+Marseille,B Munich
+Marseille,Cologne
+Marseille,E Frankfurt
+Marseille,RB Leipzig
+Marseille,W Bremen
+Rennes,Stuttgart
+Montpellier,Schalke
+Nice,B Leverkusen
+Nice,Cologne
+Nice,Schalke
+Nice,W Bremen
+St-Etienne,B Munich
+St-Etienne,Cologne
+St-Etienne,Mainz
+St-Etienne,W Bremen
+St-Etienne,Wolfsburg
+Strasbourg,E Frankfurt
+Bordeaux,B Dortmund
+Bordeaux,B Munich
+Bordeaux,Cologne
+Bordeaux,E Frankfurt
+Bordeaux,W Bremen
+Nantes,B Munich
